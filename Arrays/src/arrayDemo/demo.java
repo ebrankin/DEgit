@@ -6,4 +6,9 @@ public class demo {
 	{
 		return 56;
 	}
+	
+	public int function2()
+	{
+		return 56;
+	}
 }
